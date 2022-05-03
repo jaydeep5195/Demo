@@ -1,0 +1,45 @@
+﻿@using Newtonsoft.Json;
+@model IEnumerable<EmployeeService.Models.Department>
+@{
+    var employees = Model;
+}
+<div class="row">
+    <div class="col-6 text-left">
+        <h6>Department List</h6>
+    </div>
+    <div class="col-6 text-right text-dark">
+        @Html.ActionLink("Add New", "EditDepartment", "Department")
+    </div>
+</div>
+<div id="dv-employeeList">
+    <table class="table table-bordered">
+        <tbody>
+            <tr>
+                <th class="d-none">DepartmentId</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th></th>
+            </tr>
+        </tbody>
+        <tbody>
+            @{
+                if (employees != null)
+                {
+                    foreach (var item in employees)
+                    {
+                        <tr>
+                            <td class="d-none">@item.DepartmentId</td>
+                            <td>@item.Name</td>
+                            <td>@item.Description</td>
+                            <td>
+                                @Html.ActionLink("Edit", "EditDepartment", "Department", new { id = item.DepartmentId })
+                                &nbsp;
+                                @Html.ActionLink("Delete", "DeleteDepartment", "Department", new { id = item.DepartmentId })
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+        </tbody>
+    </table>
+</div>

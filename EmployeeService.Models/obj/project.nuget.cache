@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQ9p9O0FEcRQ2anxnMvBJTaOoh6FFCEALlC6gXW9XJP659/0T+o4sYAnZ+HylSl+5GkVstYUrF0j3RLyi3bP1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MM153\\source\\EmpManagement\\Demo\\EmployeeService.Models\\EmployeeService.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MM153\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.16\\microsoft.aspnetcore.http.features.5.0.16.nupkg.sha512",
+    "C:\\Users\\MM153\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\MM153\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

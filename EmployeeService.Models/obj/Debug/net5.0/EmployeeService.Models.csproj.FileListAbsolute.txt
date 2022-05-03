@@ -1,0 +1,12 @@
+C:\Users\MM153\source\repos\EmployeeService.Models\bin\Debug\net5.0\EmployeeService.Models.deps.json
+C:\Users\MM153\source\repos\EmployeeService.Models\bin\Debug\net5.0\EmployeeService.Models.dll
+C:\Users\MM153\source\repos\EmployeeService.Models\bin\Debug\net5.0\ref\EmployeeService.Models.dll
+C:\Users\MM153\source\repos\EmployeeService.Models\bin\Debug\net5.0\EmployeeService.Models.pdb
+C:\Users\MM153\source\repos\EmployeeService.Models\obj\Debug\net5.0\EmployeeService.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MM153\source\repos\EmployeeService.Models\obj\Debug\net5.0\EmployeeService.Models.AssemblyInfoInputs.cache
+C:\Users\MM153\source\repos\EmployeeService.Models\obj\Debug\net5.0\EmployeeService.Models.AssemblyInfo.cs
+C:\Users\MM153\source\repos\EmployeeService.Models\obj\Debug\net5.0\EmployeeService.Models.csproj.CoreCompileInputs.cache
+C:\Users\MM153\source\repos\EmployeeService.Models\obj\Debug\net5.0\EmployeeService.Models.dll
+C:\Users\MM153\source\repos\EmployeeService.Models\obj\Debug\net5.0\ref\EmployeeService.Models.dll
+C:\Users\MM153\source\repos\EmployeeService.Models\obj\Debug\net5.0\EmployeeService.Models.pdb
+C:\Users\MM153\source\repos\EmployeeService.Models\obj\Debug\net5.0\EmployeeService.Models.csproj.AssemblyReference.cache
